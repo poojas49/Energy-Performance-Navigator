@@ -125,20 +125,20 @@ Clustering analysis reveals distinct energy efficiency archetypes among the buil
 ### Models
 The project includes five machine learning models:
 
--ENERGY STAR Score Predictor: Predicts building energy performance ratings
--Building Clustering Model: Identifies natural groupings of buildings with similar characteristics
--High Accuracy ENERGY STAR Predictor: Advanced model with enhanced prediction accuracy
--Building Recommendation Engine: Provides tailored energy efficiency recommendations
--Energy Efficiency Classifier: Classifies buildings into energy efficiency categories
+-**ENERGY STAR Score Predictor**: Predicts building energy performance ratings
+-**Building Clustering Model**: Identifies natural groupings of buildings with similar characteristics
+-**High Accuracy ENERGY STAR Predictor**: Advanced model with enhanced prediction accuracy
+-**Building Recommendation Engine**: Provides tailored energy efficiency recommendations
+-**Energy Efficiency Classifier**: Classifies buildings into energy efficiency categories
 
 ### Visualizations
 The project features five key visualizations:
 
--Building Type Performance: Compares energy performance across different building types
--Energy Source Distribution: Shows how different building types utilize various energy sources
--Performance by Building Age: Examines how building age relates to energy performance
--Geographic Energy Map: Maps energy efficiency patterns across Chicago neighborhoods
--Performance Outliers: Identifies buildings that significantly outperform or underperform peers
+-**Building Type Performance**: Compares energy performance across different building types
+-**Energy Source Distribution**: Shows how different building types utilize various energy sources
+-**Performance by Building Age**: Examines how building age relates to energy performance
+-**Geographic Energy Map**: Maps energy efficiency patterns across Chicago neighborhoods
+-**Performance Outliers**: Identifies buildings that significantly outperform or underperform peers
 
 ### Acknowledgments
 
