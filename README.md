@@ -99,8 +99,6 @@ chicago-energy-navigator/
 │
 ├── visualization/               # Saved visualization files
 │
-├── notebooks/                   # Jupyter notebooks for analysis
-│
 ├── src/                         # Source code
 │   ├── data/                    # Data processing scripts
 │   ├── eda/                     # Exploratory data analysis
