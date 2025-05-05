@@ -30,7 +30,6 @@ Our analysis reveals that similar buildings can show energy consumption variatio
 ### Prerequisites
 
 - Python 3.9 or higher
-- Git
 
 ### Step 1: Clone the Repository
 
@@ -63,7 +62,7 @@ pip install -r requirements.txt
 python scripts/download_data.py
 ```
 
-### Step 5: Train the Models (Optional)
+### Step 5: Train the Models
 ```bash
 python scripts/train_models.py
 ```
@@ -116,31 +115,31 @@ chicago-energy-navigator/
 
 ### Key Findings
 
-Building characteristics (type, age, size) significantly predict energy performance
-Energy source distribution (electricity vs. natural gas) plays a critical role in efficiency
-Geographic patterns show neighborhood-level variations in building performance
-Machine learning models can accurately predict ENERGY STAR scores
-Clustering analysis reveals distinct energy efficiency archetypes among the building stock
+- Building characteristics (type, age, size) significantly predict energy performance
+- Energy source distribution (electricity vs. natural gas) plays a critical role in efficiency
+- Geographic patterns show neighborhood-level variations in building performance
+- Machine learning models can accurately predict ENERGY STAR scores
+- Clustering analysis reveals distinct energy efficiency archetypes among the building stock
 
 ### Models
 The project includes five machine learning models:
 
--**ENERGY STAR Score Predictor**: Predicts building energy performance ratings
--**Building Clustering Model**: Identifies natural groupings of buildings with similar characteristics
--**High Accuracy ENERGY STAR Predictor**: Advanced model with enhanced prediction accuracy
--**Building Recommendation Engine**: Provides tailored energy efficiency recommendations
--**Energy Efficiency Classifier**: Classifies buildings into energy efficiency categories
+- **ENERGY STAR Score Predictor**: Predicts building energy performance ratings
+- **Building Clustering Model**: Identifies natural groupings of buildings with similar characteristics
+- **High Accuracy ENERGY STAR Predictor**: Advanced model with enhanced prediction accuracy
+- **Building Recommendation Engine**: Provides tailored energy efficiency recommendations
+- **Energy Efficiency Classifier**: Classifies buildings into energy efficiency categories
 
 ### Visualizations
 The project features five key visualizations:
 
--**Building Type Performance**: Compares energy performance across different building types
--**Energy Source Distribution**: Shows how different building types utilize various energy sources
--**Performance by Building Age**: Examines how building age relates to energy performance
--**Geographic Energy Map**: Maps energy efficiency patterns across Chicago neighborhoods
--**Performance Outliers**: Identifies buildings that significantly outperform or underperform peers
+- **Building Type Performance**: Compares energy performance across different building types
+- **Energy Source Distribution**: Shows how different building types utilize various energy sources
+- **Performance by Building Age**: Examines how building age relates to energy performance
+- **Geographic Energy Map**: Maps energy efficiency patterns across Chicago neighborhoods
+- **Performance Outliers**: Identifies buildings that significantly outperform or underperform peers
 
 ### Acknowledgments
 
--City of Chicago for providing the Energy Benchmarking data
--University of Illinois Chicago for supporting this project
+- City of Chicago for providing the Energy Benchmarking data
+- University of Illinois Chicago for supporting this project
